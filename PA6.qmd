@@ -1,6 +1,10 @@
 ---
 title: "PA6"
+<<<<<<< HEAD
 author: Aaishah, Samarth
+=======
+author: Samarth, Aaishah
+>>>>>>> 275f235ee8c6f3ee711e5d6e9d8922bccb3d8922
 format: html
 editor: visual
 embed-resources: true
