@@ -1,8 +1,7 @@
 ---
 title: "PA6"
 <<<<<<< HEAD
-author: Aaishah, Samarth
-=======
+
 author: Samarth, Aaishah
 >>>>>>> 275f235ee8c6f3ee711e5d6e9d8922bccb3d8922
 format: html
@@ -19,7 +18,7 @@ Quarto enables you to weave together content and executable code into a finished
 When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
 
 ```{r}
-1 + 1
+11*11
 ```
 
 You can add options to executable code like this
